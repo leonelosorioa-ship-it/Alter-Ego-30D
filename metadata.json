@@ -1,0 +1,6 @@
+{
+  "name": "Alter Ego 30D™ - Tu Poder Mental IA™",
+  "description": "Construye tu Alter Ego de alto rendimiento a través del diagnóstico interactivo de 5 pasos con Mentora Clara Luz y Mentor Leo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
